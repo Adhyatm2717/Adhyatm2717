@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adhyatm Mudgal</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%7C+React+%7C+Python;Building+Real+Projects+🚀" />
+</p>
+
 <h3 align="center">
 B.Tech CSE (AI & ML) Student | Newton School of Technology, ADYPU  
 <br/>
@@ -37,44 +41,30 @@ Data Structures & Algorithms • OOP • Clean Code • Problem Solving
 ### 🚀 Projects
 
 #### 🧠 Optimizer AI – ATS Resume Analyzer
+🔗 Live: https://your-link  
+💻 Repo: https://github.com/Adhyatm2717/your-repo  
 
-* Built a **serverless ATS analyzer** using Groq (Llama 3)
-* Implemented **hybrid scoring** (keyword + AI contextual analysis)
-* Added **AI mock interviews + speech recognition input**
+- Serverless ATS analyzer using LLM  
+- Hybrid scoring (keyword + contextual AI)  
+- AI mock interviews with speech input  
 
 ---
 
 #### 🍔 Swiggy UI Clone
+💻 Repo: https://github.com/Adhyatm2717/your-repo  
 
-* Developed a **responsive food delivery UI** using React
-* Built **restaurant listings, search, menu & cart workflows**
-* Focused on **reusable components & scalable frontend architecture**
+- Responsive UI using React  
+- Search, menu & cart workflows  
+- Scalable component architecture  
 
 ---
 
 #### 🎮 Memory Rush – Reflex Memory Game
+💻 Repo: https://github.com/Adhyatm2717/your-repo  
 
-* Created a **dynamic memory game** using Fisher-Yates shuffle
-* Integrated **Web Audio API & smooth 3D animations**
-* Added **timers & localStorage-based high score tracking**
-
----
-
-### 🏆 Achievements
-
-* Active in **DSA & problem solving**
-* Regularly practicing on **Codeforces, LeetCode**
-* Continuously building & deploying projects
-
----
-
-### 🚀 Experience
-
-**NASA Space Apps Challenge Participant**
-
-* Worked in a **team-based hackathon environment**
-* Built a **web solution under time constraints**
-* Gained experience in **rapid prototyping & collaboration**
+- Fisher-Yates shuffle logic  
+- Web Audio + animations  
+- Score tracking with localStorage
 
 ---
 
